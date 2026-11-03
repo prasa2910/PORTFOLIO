@@ -51,7 +51,7 @@ A sustainability-focused project designed to connect restaurants generating used
 - **Languages:** HTML, CSS, JavaScript
 - **Tools:** Visual Studio Code, Git, GitHub
 - **Interests:** Artificial Intelligence, Web Development, UI/UX Design, Sustainability
-- **Learning:** Building interactive websites and practical digital solutions
+- **Learning:** Building interactive websites and practical digital solutions 
 
 ## 🎯 My Goals
 
@@ -68,6 +68,7 @@ A sustainability-focused project designed to connect restaurants generating used
 
 ## 💡 My Philosophy
 
+> Be curious
 > Great ideas become meaningful when we build them.
 
 I'm just getting started, and this is where my journey begins.
