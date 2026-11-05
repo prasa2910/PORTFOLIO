@@ -6,7 +6,7 @@
 
 College Student • Developer • AI Enthusiast • Creative Builder
 
-Welcome to my personal portfolio! 🚀
+Welcome to My personal portfolio! 🚀
 
 I'm a college student and beginner developer passionate about building useful digital experiences, exploring artificial intelligence, and turning creative ideas into real-world projects.
 
